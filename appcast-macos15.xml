@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Sottotitoli</title>
+    <item>
+      <title>Sottotitoli 5.105</title>
+      <pubDate>Sat, 07 Nov 2026 16:11:11 +0100</pubDate>
+      <sparkle:version>202611062253</sparkle:version>
+      <sparkle:shortVersionString>5.105</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Da questa versione l'app si aggiorna da sola.</p><ul><li>Una volta al giorno guarda se c'è una versione nuova e propone di installarla.</li><li>Menu dell'app ▸ Controlla aggiornamenti… per controllare subito.</li><li>Impostazioni ▸ Generali ▸ Aggiornamenti: controllo automatico e installazione alla chiusura.</li><li>Prima di installare, l'app controlla la firma della versione nuova.</li></ul>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.105/Sottotitoli-5.105-macOS15.dmg" length="82438732" type="application/octet-stream" sparkle:edSignature="AbFCCGhelSXNPY8WICHFagCTJRvqwBoGWKljw2czVER30zUrR4Nq6qkyF+ICBy5Q2EJK86J+1xRQj8O7IShzAA=="/>
+    </item>
+  </channel>
+</rss>
