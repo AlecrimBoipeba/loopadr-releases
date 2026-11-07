@@ -3,13 +3,13 @@
   <channel>
     <title>Sottotitoli</title>
     <item>
-      <title>Sottotitoli 5.105</title>
-      <pubDate>Sat, 07 Nov 2026 16:11:11 +0100</pubDate>
-      <sparkle:version>202611062253</sparkle:version>
-      <sparkle:shortVersionString>5.105</sparkle:shortVersionString>
+      <title>Sottotitoli 5.106</title>
+      <pubDate>Sat, 07 Nov 2026 18:50:06 +0100</pubDate>
+      <sparkle:version>202611071836</sparkle:version>
+      <sparkle:shortVersionString>5.106</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Da questa versione l'app si aggiorna da sola.</p><ul><li>Una volta al giorno guarda se c'è una versione nuova e propone di installarla.</li><li>Menu dell'app ▸ Controlla aggiornamenti… per controllare subito.</li><li>Impostazioni ▸ Generali ▸ Aggiornamenti: controllo automatico e installazione alla chiusura.</li><li>Prima di installare, l'app controlla la firma della versione nuova.</li></ul>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.105/Sottotitoli-5.105-macOS15.dmg" length="82438732" type="application/octet-stream" sparkle:edSignature="AbFCCGhelSXNPY8WICHFagCTJRvqwBoGWKljw2czVER30zUrR4Nq6qkyF+ICBy5Q2EJK86J+1xRQj8O7IShzAA=="/>
+      <description><![CDATA[<p>Nella finestra Progetti ora si può togliere un progetto dall'elenco.</p><ul><li>Passa col puntatore sulla riga e premi la ✕, oppure fai clic destro.</li><li>Un progetto salvato si toglie solo dall'elenco: il file resta dov'è.</li><li>Un progetto in sospeso va nel Cestino, dopo una domanda.</li><li>Un progetto che non si trova più lo dice, e si toglie con la ✕.</li><li>Clic destro ▸ Mostra nel Finder.</li></ul>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.106/Sottotitoli-5.106-macOS15.dmg" length="82476387" type="application/octet-stream" sparkle:edSignature="rOyWUPm5LTWbMLXzwQYCq9NrXi24vw5sDuxegRycSXM3tWaMvPH3cYiQZcYbBHp3xpLFLe5da1c5nOl55gg0BA=="/>
     </item>
   </channel>
 </rss>
