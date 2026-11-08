@@ -3,13 +3,13 @@
   <channel>
     <title>Sottotitoli</title>
     <item>
-      <title>Sottotitoli 5.107</title>
-      <pubDate>Sun, 08 Nov 2026 02:50:24 +0100</pubDate>
-      <sparkle:version>202611080237</sparkle:version>
-      <sparkle:shortVersionString>5.107</sparkle:shortVersionString>
+      <title>Sottotitoli 5.108</title>
+      <pubDate>Sun, 08 Nov 2026 18:55:53 +0100</pubDate>
+      <sparkle:version>202611081842</sparkle:version>
+      <sparkle:shortVersionString>5.108</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Nuova: la Vista tempo del copione, come in K ADR Export.</p><ul><li>In cima alla lista: una riga per personaggio, una barra per battuta sul tempo.</li><li>Colori col giudizio dell'adattamento (comoda, giusta, stretta, non ci sta) o col personaggio.</li><li>Clic su una barra: la battuta si apre nella lista. Doppio clic: ingrandisce.</li><li>Tratteggio per i tempi dedotti, linea rossa per le battute accavallate, anelli e posizione del video.</li></ul>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.107/Sottotitoli-5.107-macOS15.dmg" length="82670594" type="application/octet-stream" sparkle:edSignature="ZZrhk5k3QpLNNjO6wYauwezkyklDmS4YJuVT/mVXJ1geX9i+2XUGUCoo5SWzaXDSJK+IvuETFliS0AboozzwAw=="/>
+      <description><![CDATA[<ul><li>Film a rulli: File ▸ Nuovo film a rulli… raccoglie i rulli di un film, un progetto per rullo, con un video per rullo, uno script per rullo o uno per tutto il film, e l'adattamento di tutto il film.</li><li>Il progetto di un rullo nasce la prima volta che lo apri, col suo video, il suo script e la sua parte dell'adattamento; lo script unico si divide dall'ora dei tempi (01, 02…).</li><li>La barra del film: ◂ Rullo ▸ per passare da un rullo all'altro, e «Tutto il film» per il copione sala unico (Word o PDF) e i sottotitoli di tutti i rulli.</li><li>Più video o script trascinati insieme: l'app chiede se sono i rulli di un film o una lavorazione a lotto.</li></ul>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.108/Sottotitoli-5.108-macOS15.dmg" length="82996453" type="application/octet-stream" sparkle:edSignature="ccEnHWrXQt69x8Ag1c/EcS78TOWCWBA5IR36JaFAK+WPwxNS2qx+sHvBXEI0rVqW0RSm1RQQlaiZYXFQCWR2Ag=="/>
     </item>
   </channel>
 </rss>

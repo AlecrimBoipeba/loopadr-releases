@@ -3,13 +3,13 @@
   <channel>
     <title>Sottotitoli</title>
     <item>
-      <title>Sottotitoli 5.107</title>
-      <pubDate>Sun, 08 Nov 2026 02:50:23 +0100</pubDate>
-      <sparkle:version>202611080225</sparkle:version>
-      <sparkle:shortVersionString>5.107</sparkle:shortVersionString>
+      <title>Sottotitoli 5.108</title>
+      <pubDate>Sun, 08 Nov 2026 18:55:52 +0100</pubDate>
+      <sparkle:version>202611081809</sparkle:version>
+      <sparkle:shortVersionString>5.108</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Nuova: la Vista tempo del copione, come in K ADR Export.</p><ul><li>In cima alla lista: una riga per personaggio, una barra per battuta sul tempo.</li><li>Colori col giudizio dell'adattamento (comoda, giusta, stretta, non ci sta) o col personaggio.</li><li>Clic su una barra: la battuta si apre nella lista. Doppio clic: ingrandisce.</li><li>Tratteggio per i tempi dedotti, linea rossa per le battute accavallate, anelli e posizione del video.</li></ul>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.107/Sottotitoli-5.107.dmg" length="82640535" type="application/octet-stream" sparkle:edSignature="mWbSVJy4kUCxA1nwlgFbheAinsJ56vB6gPHIHQsNgZu+j1o0uVP8dcMlnkjGekZWvec/YkFztRzqg04GXg2/AA=="/>
+      <description><![CDATA[<ul><li>Film a rulli: File ▸ Nuovo film a rulli… raccoglie i rulli di un film, un progetto per rullo, con un video per rullo, uno script per rullo o uno per tutto il film, e l'adattamento di tutto il film.</li><li>Il progetto di un rullo nasce la prima volta che lo apri, col suo video, il suo script e la sua parte dell'adattamento; lo script unico si divide dall'ora dei tempi (01, 02…).</li><li>La barra del film: ◂ Rullo ▸ per passare da un rullo all'altro, e «Tutto il film» per il copione sala unico (Word o PDF) e i sottotitoli di tutti i rulli.</li><li>Più video o script trascinati insieme: l'app chiede se sono i rulli di un film o una lavorazione a lotto.</li></ul>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.108/Sottotitoli-5.108.dmg" length="82949317" type="application/octet-stream" sparkle:edSignature="usHYlzlgFci6bUS6P4bl1f2EuSTt4viKYNoeywpfEkJxSYlnOfk6WglzBEi8iXV4s8DiALsOncbO+4EreGssDg=="/>
     </item>
   </channel>
 </rss>
