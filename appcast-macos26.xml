@@ -3,13 +3,13 @@
   <channel>
     <title>Sottotitoli</title>
     <item>
-      <title>Sottotitoli 5.108</title>
-      <pubDate>Sun, 08 Nov 2026 18:55:52 +0100</pubDate>
-      <sparkle:version>202611081809</sparkle:version>
-      <sparkle:shortVersionString>5.108</sparkle:shortVersionString>
+      <title>Sottotitoli 5.109</title>
+      <pubDate>Mon, 09 Nov 2026 13:58:10 +0100</pubDate>
+      <sparkle:version>202611091248</sparkle:version>
+      <sparkle:shortVersionString>5.109</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Film a rulli: File ▸ Nuovo film a rulli… raccoglie i rulli di un film, un progetto per rullo, con un video per rullo, uno script per rullo o uno per tutto il film, e l'adattamento di tutto il film.</li><li>Il progetto di un rullo nasce la prima volta che lo apri, col suo video, il suo script e la sua parte dell'adattamento; lo script unico si divide dall'ora dei tempi (01, 02…).</li><li>La barra del film: ◂ Rullo ▸ per passare da un rullo all'altro, e «Tutto il film» per il copione sala unico (Word o PDF) e i sottotitoli di tutti i rulli.</li><li>Più video o script trascinati insieme: l'app chiede se sono i rulli di un film o una lavorazione a lotto.</li></ul>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.108/Sottotitoli-5.108.dmg" length="82949317" type="application/octet-stream" sparkle:edSignature="usHYlzlgFci6bUS6P4bl1f2EuSTt4viKYNoeywpfEkJxSYlnOfk6WglzBEi8iXV4s8DiALsOncbO+4EreGssDg=="/>
+      <description><![CDATA[<ul><li>La finestra del copione rifatta: una riga sola in alto, il video accanto alla lista, la Vista tempo sotto con il separatore da trascinare, l'ispettore (⌥⌘0) per lingua, tempi, anelli e consegna, i numeri nella barra di stato</li><li>+ Anello e − Anello sopra la lista, per tagliare a mano o ritoccare il taglio</li><li>La Vista tempo si ingrandisce come in Pro Tools: ⌥ o ⌘ + rotella e il pizzico; scelte rapide Tutto, Anello, 30 s, 10 s, Battuta; panoramica del rullo; corsie S, M, L con il testo nelle barre</li><li>La riconforma di tutto il film a rulli: Tutto il film ▸ Riconforma il film…</li></ul>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.109/Sottotitoli-5.109.dmg" length="83775991" type="application/octet-stream" sparkle:edSignature="zM/Kp36xoAMxrHBLRiS93X06bKos8gln7a6gfq0O/W7ND2ih2Jp5kYuDOKPcEPIF8mm69Qs0FCvJevNZQpT5Ag=="/>
     </item>
   </channel>
 </rss>
