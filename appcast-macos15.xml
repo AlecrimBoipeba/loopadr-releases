@@ -3,13 +3,13 @@
   <channel>
     <title>Sottotitoli</title>
     <item>
-      <title>Sottotitoli 5.109</title>
-      <pubDate>Mon, 09 Nov 2026 13:58:13 +0100</pubDate>
-      <sparkle:version>202611091304</sparkle:version>
-      <sparkle:shortVersionString>5.109</sparkle:shortVersionString>
+      <title>Sottotitoli 5.110</title>
+      <pubDate>Tue, 10 Nov 2026 21:29:38 +0100</pubDate>
+      <sparkle:version>202611102058</sparkle:version>
+      <sparkle:shortVersionString>5.110</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>La finestra del copione rifatta: una riga sola in alto, il video accanto alla lista, la Vista tempo sotto con il separatore da trascinare, l'ispettore (⌥⌘0) per lingua, tempi, anelli e consegna, i numeri nella barra di stato</li><li>+ Anello e − Anello sopra la lista, per tagliare a mano o ritoccare il taglio</li><li>La Vista tempo si ingrandisce come in Pro Tools: ⌥ o ⌘ + rotella e il pizzico; scelte rapide Tutto, Anello, 30 s, 10 s, Battuta; panoramica del rullo; corsie S, M, L con il testo nelle barre</li><li>La riconforma di tutto il film a rulli: Tutto il film ▸ Riconforma il film…</li></ul>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.109/Sottotitoli-5.109-macOS15.dmg" length="83848503" type="application/octet-stream" sparkle:edSignature="LbFr+1hkKq+g0B2y9xFX99G78jIQ2Fhv6ol7eamYY8gvdzPJ5KzlF4Z1MHddUekd7qUqFDXvWgr4H8eFxUNtAw=="/>
+      <description><![CDATA[<ul><li>Allinea il copione originale al video, poi abbina l’adattamento italiano conservando i tempi.</li><li>La finestra Copione adatta l’ispettore e la Vista tempo alle dimensioni disponibili.</li></ul>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.110/Sottotitoli-5.110-macOS15.dmg" length="90685374" type="application/octet-stream" sparkle:edSignature="A6DpFK8YhBRh4F/3xCgEYh5IIS4g89xP9NZhoAzA+pcX5WeOKLF9pjd8P+C5ZA/lPwTsnTWYJTFdtewM5pRmBg=="/>
     </item>
   </channel>
 </rss>
