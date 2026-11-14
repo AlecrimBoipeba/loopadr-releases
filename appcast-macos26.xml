@@ -3,13 +3,13 @@
   <channel>
     <title>Sottotitoli</title>
     <item>
-      <title>Sottotitoli 5.111</title>
-      <pubDate>Sat, 14 Nov 2026 11:33:09 +0100</pubDate>
-      <sparkle:version>202611141029</sparkle:version>
-      <sparkle:shortVersionString>5.111</sparkle:shortVersionString>
+      <title>Sottotitoli 5.112</title>
+      <pubDate>Sat, 14 Nov 2026 18:06:47 +0100</pubDate>
+      <sparkle:version>202611141711</sparkle:version>
+      <sparkle:shortVersionString>5.112</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Sottotitoli 5.111 — Finestra unica (B1): Sottotitoli, Copione e Anelli nella stessa finestra. Schermata di inizio con sette lavori, anche solo taglio e solo adattamento: trascini i file e l'app propone il lavoro. Il copione si lavora anche senza video (Tempi dal copione). Il taglio in anelli si toglie in qualunque momento (freccia accanto a Taglio anelli ▸ Togli il taglio…, si annulla con ⌘Z).</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.111/Sottotitoli-5.111.dmg" length="84393209" type="application/octet-stream" sparkle:edSignature="grlQz9EIiepg0Ah000y+KNo9l/4KmU6419nLXBYgClMiV3I2M93PzYo0/CnbjmqzAM5Z5QXmuI9/ZRp3vF83Ag=="/>
+      <description><![CDATA[<p>Sottotitoli 5.112 — L'icona ha la K delle app KSound, in filigrana dietro alla forma d'onda. Nient'altro cambia nell'app.</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.112/Sottotitoli-5.112.dmg" length="84471698" type="application/octet-stream" sparkle:edSignature="w7ZKvnyevuiQe0Y7TQHGr9cKh8bp6ho0+NVhYeu60NWMPeQLBWr3XdLH7dXUstV5y0XOJ0YsS8fxjAUzcVfAAQ=="/>
     </item>
   </channel>
 </rss>
