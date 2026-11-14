@@ -3,13 +3,13 @@
   <channel>
     <title>Sottotitoli</title>
     <item>
-      <title>Sottotitoli 5.110</title>
-      <pubDate>Tue, 10 Nov 2026 21:29:38 +0100</pubDate>
-      <sparkle:version>202611102058</sparkle:version>
-      <sparkle:shortVersionString>5.110</sparkle:shortVersionString>
+      <title>Sottotitoli 5.111</title>
+      <pubDate>Sat, 14 Nov 2026 11:33:16 +0100</pubDate>
+      <sparkle:version>202611141054</sparkle:version>
+      <sparkle:shortVersionString>5.111</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Allinea il copione originale al video, poi abbina l’adattamento italiano conservando i tempi.</li><li>La finestra Copione adatta l’ispettore e la Vista tempo alle dimensioni disponibili.</li></ul>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.110/Sottotitoli-5.110-macOS15.dmg" length="90685374" type="application/octet-stream" sparkle:edSignature="A6DpFK8YhBRh4F/3xCgEYh5IIS4g89xP9NZhoAzA+pcX5WeOKLF9pjd8P+C5ZA/lPwTsnTWYJTFdtewM5pRmBg=="/>
+      <description><![CDATA[<p>Sottotitoli 5.111 — Finestra unica (B1): Sottotitoli, Copione e Anelli nella stessa finestra. Schermata di inizio con sette lavori, anche solo taglio e solo adattamento: trascini i file e l'app propone il lavoro. Il copione si lavora anche senza video (Tempi dal copione). Il taglio in anelli si toglie in qualunque momento (freccia accanto a Taglio anelli ▸ Togli il taglio…, si annulla con ⌘Z).</p>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.111/Sottotitoli-5.111-macOS15.dmg" length="84386707" type="application/octet-stream" sparkle:edSignature="53Bp6XF9x/Y6Lc2VabMKYfxfwcsBwjTLk0OVBxirBsD2EkEDzVkssptkIxw6FiQvG9jp42rIP7ggNWXH+wGHDw=="/>
     </item>
   </channel>
 </rss>
