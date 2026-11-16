@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Sottotitoli</title>
+    <title>K Dubbing Tools</title>
     <item>
-      <title>Sottotitoli 5.112</title>
-      <pubDate>Sat, 14 Nov 2026 18:06:48 +0100</pubDate>
-      <sparkle:version>202611141749</sparkle:version>
-      <sparkle:shortVersionString>5.112</sparkle:shortVersionString>
+      <title>K Dubbing Tools 5.113</title>
+      <pubDate>Mon, 16 Nov 2026 09:19:17 +0100</pubDate>
+      <sparkle:version>202611160323</sparkle:version>
+      <sparkle:shortVersionString>5.113</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Sottotitoli 5.112 — L'icona ha la K delle app KSound, in filigrana dietro alla forma d'onda. Nient'altro cambia nell'app.</p>]]></description>
-      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.112/Sottotitoli-5.112-macOS15.dmg" length="84491841" type="application/octet-stream" sparkle:edSignature="iqkTzUOqAwDRquyTrbDxgy/9z+2fkdqfb9cMd8S0TTAhgjSTsE2p4hhNy/oRw/mvT+ydp6vo6heLkUlMEbotDg=="/>
+      <description><![CDATA[<ul><li>L'app ora si chiama K Dubbing Tools (menu, finestre, manuale, DMG, Stream Deck).</li><li>Al primo avvio la cartella dei dati trasloca da sola; i progetti nuovi sono .kdubbing, i vecchi .sottotitoli si aprono come prima.</li><li>Dopo l'aggiornamento una finestra propone «Rinomina…»: premete «Consenti» e l'app riparte col nome nuovo.</li></ul>]]></description>
+      <enclosure url="https://github.com/AlecrimBoipeba/loopadr-releases/releases/download/v5.113/K-Dubbing-Tools-5.113-macOS15.dmg" length="84506629" type="application/octet-stream" sparkle:edSignature="CFPbtL4bQsvm6gtQ6+1rroE8Hh3Ay6DRlPxIcpAEpzH0lJ3TuF1pBFZXp1zAZdvaKFehzRjeinaYjqZ29h8jAQ=="/>
     </item>
   </channel>
 </rss>
